@@ -11,10 +11,9 @@ lirica种植基地又名丽丽卡卡豆瓣&小红书后援会，民间自发组�
 
 ## 交流群
 
-<img src="exchange_group.png" width="30%" height="30%">
+<img src="exchange_group.png" width="60%" height="60%">
 
-## 反黑组[&nbsp;](@shield)
-
+## 反黑组 <p id="shield"></p>
 | 昵称 | 微博 | 豆瓣 | 小红书 | 抖音 | 快手 | 贴吧 | 挂黑原因 |
 | ---- | ---- | ---- | ------ | ---- | ---- | ---- | -------- |
 |      |      |      |        |      |      |      |          |
